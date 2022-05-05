@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.background{
+    width: 100%;
+    background-color:#c8def3;
+}
+#wholeform{
+    margin: 10% 20%;
+    width: 60%;
+    height: 550px;
+}
+
+#pic{
+    background:  white url(./photo-1575467544611-470fa8053545.jpg) no-repeat ;
+    width: 100%;
+    height: 200px;
+
+}
+
+#singIn{
+    text-align: center;
+    z-index: 2;
+    color: white;
+}
+
+#form{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
+
+
+#up{
+    color: gray;
+    position: center;
+}
+#pp{
+    color: gray;
+    
+}
+
+#logInButton{
+    position: center;
+    background-color: green;
+    border-radius: 5px;
+}
